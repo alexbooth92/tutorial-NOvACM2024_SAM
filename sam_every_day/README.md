@@ -91,7 +91,7 @@ submit_cafana.py --export CAFANA_DATASET_CACHE_DIR=/cvmfs/nova.osgstorage.org/an
 samweb file-lineage ancestors fardet_genie_AR23_20i_00_000_nonswap_genierw_fhc_v08_1000_r00013589_s44_c000_R23-11-16-miniprod6.1reco.a_v1_20231218_105527_sim_miniprod6-1.caf.root
 ```
 
-An important example of using lineage is the concats.
+An important example of using lineage is with the concats.
 ```
 samweb file-lineage parents samweb file-lineage parents prod_sumdecaf_R20-11-25-prod5.1reco.j.l_fd_genie_N1810j0211a_nonswap_rhc_nova_v08_full_v1_numu2020_149_of_150.root
 ```
