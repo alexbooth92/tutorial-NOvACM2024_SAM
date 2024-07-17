@@ -1,5 +1,5 @@
 # tutorial-NOvACM2024_SAM
-A tutorial on SAM for NOvA for the July 2024 Collaboration Meeting at University of Minnesota. Please see docdb- for supporting slides.
+A tutorial on SAM for NOvA for the July 2024 Collaboration Meeting at University of Minnesota. Please see [docdb-63447](https://nova-docdb.fnal.gov/cgi-bin/sso/ShowDocument?docid=63447) for supporting slides.
 
 To work with SAM on the NOvA GPVMs simply setup a `novasoft` environment as you normally would. For example:
 
